@@ -8514,6 +8514,12 @@
             "finish-args-home-filesystem-access": "Predates the linter rule"
         }
     },
+    "org.waywallen.waywallen": {
+        "stable": {
+            "finish-args-own-name-org.waywallen.Daemon": "Required to enable communication between multiple processes",
+            "finish-args-flatpak-appdata-folder-access": "Required to access the steam workshop folder"
+        }
+    }
     "org.wezfurlong.wezterm": {
         "stable": {
             "finish-args-flatpak-spawn-access": "required to spawn the user's shell and other commands on the host system; it's the primary purpose of a terminal emulator",
